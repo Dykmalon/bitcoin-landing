@@ -2498,6 +2498,7 @@ textarea.w-input, textarea.w-select {
 
   .image-5 {
     width: 7vw;
+    display: none;
   }
 
   .div-block-6 {
